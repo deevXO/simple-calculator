@@ -105,7 +105,7 @@ const App = () => {
         </div>
       </div>
       <footer className="absolute bottom-6 text-gray-400 text-sm font-mono tracking-wide z-10">
-        Created by <span className="text-indigo-400 font-semibold" href="www.github.com/deevXO" >Deevanshu Kapoor</span>
+        Created by <span className="text-indigo-400 font-semibold" href='www.github.com/deevXO' >Deevanshu Kapoor</span>
       </footer>
     </div>
   );
